@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 About:
 <br>📚 Finishing my final year of a **Bachelor in Informatics (Systemvetenskap)** at **Uppsala University**.  <br>🌱 This past year, I’ve taught myself **web development** alongside my studies — now I’m eager to gain some **professional experience** and work on real-world projects!<br>
 
 
