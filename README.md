@@ -1,20 +1,18 @@
-## Hello, I'm Oskar 👋
+# 💫 About Me:
+<br>📚 Finishing my final year of a **Bachelor in Informatics (Systemvetenskap)** at **Uppsala University**.  <br>🌱 This past year, I’ve taught myself **web development** alongside my studies — now I’m eager to gain some **professional experience** and work on real-world projects!<br>
 
-📚 Finishing my final year of a **Bachelor in Informatics (Systemvetenskap)** at **Uppsala University**.  
-🌱 This past year, I’ve taught myself **web development** alongside my studies — now I’m eager to gain some **professional experience** and work on real-world projects!
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-Typescript-blue?style=flat&logo=typescript" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/ORM-Prisma-3982CE?style=flat&logo=prisma" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Backend-Supabase-3FCF8E?style=flat&logo=supabase" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=flat&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Style-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Style-CSS3-1572B6?style=flat&logo=css3" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?style=flat&logo=html5" alt="HTML"/>
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=oskarlundemo&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=oskarlundemo&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oskarlundemo&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=oskarlundemo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **oskarlundemo/oskarlundemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
