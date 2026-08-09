@@ -1,6 +1,5 @@
-# 🧑‍💻 About me:
+## About 
 <p>
-I'm currently in my final year of a <b>Bachelor’s degree in Informatics (Systemvetenskap)</b> at <b>Uppsala University</b>.
-Alongside my studies, I’ve been diving deep into <b>web development</b>, exploring technologies like <b>Next.js</b>, <b>React</b>, and <b>TypeScript</b>.<br><br>
-I’m now looking to apply my skills in <b>real-world projects</b>, learn from <b>experienced developers</b>, and continue growing as a <b>full-stack developer</b>.
+<b>Bachelor's degree in Informatics</b> from <b>Uppsala University</b>. Starting a <b>trainee program</b> at <b>Exsitec</b> in 2026, focused on <b>application and integration</b>.<br><br>
+<b>Self-taught web developer</b> who also builds <b>full-stack applications</b> in my free time.
 </p>
